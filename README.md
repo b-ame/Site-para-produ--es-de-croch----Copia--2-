@@ -1,7 +1,7 @@
 
   # Site para produções de crochê
 
-  This is a code bundle for Site para produções de crochê. The original project is available at https://www.figma.com/design/gbiHK21Q2MljJwiUj832Gc/Site-para-produ%C3%A7%C3%B5es-de-croch%C3%AA.
+
 
   ## Running the code
 
